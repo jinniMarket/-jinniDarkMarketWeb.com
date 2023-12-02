@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Nova+Square&display=swap');
+
+* {
+    font-family: 'Nova Square', sans-serif;
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+body {
+    background-color: rgba(0, 0, 0, 0.925);
+}
+
+.heading{
+    text-align: center;
+    top: 120%;
+    transform: translateY(20px);
+    padding: 0;
+    margin: 0;
+    z-index: 0;
+    cursor: default;
+}
