@@ -34,6 +34,7 @@ body {
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
     font-size: 40px;
+    font-weight: 900;
     padding: 15px;
     transform: all 1.15s;
     transition: box-shadow 0.15s;
